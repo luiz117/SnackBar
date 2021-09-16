@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SnackBar</string>
+    <string name="btn">Open SnackBar</string>
+    <string name="Fechar">Fechar</string>
+</resources>
